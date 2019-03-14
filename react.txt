@@ -1,0 +1,40 @@
+2019.3.4
+webpack
+现在vue使用的是2.0
+---面向对象（继承、原型链、）游戏类型项目
+---封装的插件(面向对象)  2、3插件
+3.命令式编程与 函数式编程的区别
+15版本：
+4.babel识别jsx语法，将虚拟dom转化为真实dom。
+react中对js的解析使用{}来解析json对象。
+所有变量的解析都是使用{}
+react中方法带()时，默认指向window，使用bind()表示绑定当前对象。
+对于app组件中render方法的注释： 需要进行解析。
+
+在一个根组件中嵌套：
+16版本：production版本  
+不同的方法之间不需要加,
+
+
+react   在配置文件中5个部分。
+程序的入口 main.js
+
+使用webpack来搭建react环境。
+
+当涉及到组件的嵌套时，将组件标签放到  总组件中。
+
+
+2019.3.5
+getDefaultProperties()    15 定义私有属性
+defaultProperties()   16  在构造器内部或者defaultProperties方法。
+在高版本中是对 类的声明。
+
+setState()会不断触发render(),所以不能再render()中调用。
+在高版本中setState需要使用bind()绑定，指针指向必须是对象。
+
+2019.3.6
+路由是2与4的版本。
+
+
+
+

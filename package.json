@@ -1,0 +1,12 @@
+{
+  "name": "vueitem",
+  "version": "1.0.0",
+  "description": "vue+nodejs+express+mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run dev"
+  },
+  "author": "",
+  "license": "ISC"
+}
